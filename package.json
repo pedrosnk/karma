@@ -188,9 +188,6 @@
   },
   "main": "./lib/index",
   "bin": {},
-  "engines": {
-    "node": "~0.8 || ~0.10"
-  },
   "version": "0.12.16",
   "license": "MIT"
 }
